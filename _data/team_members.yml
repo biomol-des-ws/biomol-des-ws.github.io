@@ -1,0 +1,35 @@
+- name: Takahiro Kosugi (小杉 貴洋)
+  photo: kosugi.jpg
+  info: Assistant Professor, Research Center of Integrative Molecular Systems, Institute for Molecular Science
+  website:
+  researchmap: takahirokosugi
+
+- name: Ai Niitsu (新津 藍)
+  photo: niitsu.png
+  info: Team Director/PRESTO Researcher, RIKEN
+  website: https://www.bdr.riken.jp/ja/research/labs/niitsu-a/index.html
+  researchmap: ai_niitsu
+
+- name: Kotaro Tsuboyama (坪山 幸太郎)
+  photo: tsuboyama.jpg
+  info: Lecturer, Institute of Industrial Science, The University of Tokyo
+  website: https://sites.google.com/view/tsubo-lab/
+  researchmap: ktsuboyama
+
+- name: Shingo Honda (本田 信吾)
+  photo: honda.jpeg
+  info: Postdoctoral Scholar, Institute for Protein Design, University of Washington
+  website: https://www.linkedin.com/in/shingohonda/
+  researchmap: shingo_honda
+
+- name: Masaharu Somiya (曽宮 正晴)
+  photo: somiya.jpg
+  info: Associate Professor, Osaka University
+  website: https://masaharusomiya.page/en/
+  researchmap: masaharusomiya
+
+- name: Yoshitaka Moriwaki (森脇 由隆)
+  photo: moriwaki.png
+  info: Associate Professor, Institute of Science Tokyo (Formerly Tokyo Medical and Dental University)
+  website: https://cddlab.io/
+  researchmap: YoshitakaMoriwaki
