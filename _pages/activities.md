@@ -13,21 +13,32 @@ permalink: /activities
 ### 開催概要
 2025年12月10日に第1回研究会を行います。
 
-- 日時：2025年12月10日（水）13:00-17:00
-  - 懇親会：17:30-20:00
+- 日時：2025年12月10日（水）13:00-17:30
+  - 懇親会：18:00-20:00
 - 場所：東京科学大学 湯島地区（旧東京以下歯科大学）M&Dタワー 4階 アクティブラーニング室
 - 参加登録：[こちら](https://forms.gle/fk65Fwfd7mr9TV8u9)からお願いします
 - 参加費：参加登録リンクから詳細をご確認ください
 - [FAQ]({{ site.baseurl }}/faq/)
 
-### 講演者（予定）
+### タイムテーブル（予定・敬称略）
 
-- [黒田 大佑](https://researchmap.jp/dkuroda1905) 先生（日本大学 文理学部 生命科学科 准教授 [構造バイオインフォマティクス研究室](https://dept.chs.nihon-u.ac.jp/biosciences/staff/dkuroda/)）
-- [南 慎太朗](https://github.com/ShintaroMinami) 先生（元[Monod Bio](https://monod.bio/) -> 民間企業）
-- [千見寺 浄慈](https://researchmap.jp/read0132949) 先生（名古屋大学 大学院工学研究科 応用物理学専攻 複合系物性工学 助教 [研究室](https://www.bmp.ap.pse.nagoya-u.ac.jp/)）
-- [金城 智章](https://www.med.unc.edu/biochem/directory/tomoaki-kinjo/) 先生（Department of Biochemistry and Biophysics, The University of North Carolina at Chapel Hill, Postdoctoral Research Associate）
-- [矢木 真穂](https://researchmap.jp/mahoyagi) 先生（名古屋市立大学 大学院薬学研究科 准教授 [生命分子構造学分野研究室](http://www.phar.nagoya-cu.ac.jp/hp/sbk/)）
-- [谷中 冴子](https://researchmap.jp/yanaka) 先生（Science Tokyo 総合研究院 准教授 [研究室](https://www.mac.titech.ac.jp/mct-labsearch/movie/p-movie396/)）
+13:00-13:10 開会挨拶・趣旨説明<br><br>
+13:10-13:25 [小杉 貴洋](https://researchmap.jp/takahirokosugi) (分子科学研究所 協奏分子システム研究センター 助教)<br>
+13:25-13:40 [千見寺 浄慈](https://researchmap.jp/read0132949) (名古屋大学 大学院工学研究科 応用物理学専攻 複合系物性工学 助教)<br>
+13:40-13:55 [本田 信吾](https://researchmap.jp/shingo_honda) (Institute for Protein Design, University of Washington Postdoctoral Scholar)<br>
+13:55-14:10 [新津 藍](https://researchmap.jp/ai_niitsu) (理化学研究所 生命医科学研究センター チームディレクター)<br><br>
+(休憩)<br><br>
+14:30-14:45 [金城 智章](https://www.med.unc.edu/biochem/directory/tomoaki-kinjo/) (Department of Biochemistry and Biophysics, The University of North Carolina at Chapel Hill, Postdoctoral Research Associate)<br>
+14:45-15:00 [矢木 真穂](https://researchmap.jp/mahoyagi) (名古屋市立大学 大学院薬学研究科 准教授)<br>
+15:00-15:15 [谷中 冴子](https://researchmap.jp/yanaka) (Science Tokyo 総合研究院 フロンティア材料研究所 准教授)<br>
+15:15-15:30 [曽宮 正晴](https://researchmap.jp/masaharusomiya) (大阪大学 産業科学研究所 准教授)<br><br>
+(休憩)<br><br>
+15:50-16:05 [黒田 大佑](https://researchmap.jp/dkuroda1905) (日本大学 文理学部 生命科学科 准教授)<br>
+16:05-16:20 [南 慎太郎](https://github.com/ShintaroMinami) (元[Monod Bio](https://monod.bio/) -> Accipiter Biosciences)<br>
+16:20-16:35 [森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授) <br>
+16:35-16:50 [坪山 幸太郎](https://researchmap.jp/ktsuboyama) (東京大学 生産技術研究所 講師)<br><br>
+16:50-17:00 閉会挨拶<br><br>
+17:30-20:00 懇親会<br>
 
 ### 開催趣旨
 
