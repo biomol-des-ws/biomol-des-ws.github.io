@@ -30,7 +30,7 @@ permalink: /activities
     - ​​​ネットワーク接続：無線LAN（ScienceTokyo Wi-Fi）またはEduroamが利用可能。
     - モニターへの出力：HDMI、アナログ、AppleTV
     - PCからの音声出力：HDMI
-- 参加登録：[こちら](https://forms.gle/fk65Fwfd7mr9TV8u9)からお願いします。<span style="color: red; ">**2025.10.29〜受付再開しました**</span>
+- 参加登録：~~[こちら]からお願いします。~~<span style="color: red; ">**2025.10.30更新：参加者数が上限に達したため受付を締め切りました**</span>
 - 参加費：参加登録リンクから詳細をご確認ください
 - [FAQ]({{ site.baseurl }}/faq/)
 
