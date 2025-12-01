@@ -45,7 +45,7 @@ permalink: /activities
 14:30-14:45 [矢木 真穂](https://researchmap.jp/mahoyagi) (名古屋市立大学 大学院薬学研究科 准教授)<br>
 14:45-15:00 [谷中 冴子](https://researchmap.jp/yanaka) (Science Tokyo 総合研究院 フロンティア材料研究所 准教授)<br>
 15:00-15:15 [曽宮 正晴](https://researchmap.jp/masaharusomiya) (大阪大学 産業科学研究所 准教授)<br>
-15:15-15:40 タンパク質デザインチュートリアル [南 慎太朗](https://github.com/ShintaroMinami) (Accipiter Biosciences) [本田 信吾](https://researchmap.jp/shingo_honda)<br>
+15:15-15:45 タンパク質デザインチュートリアル, [南 慎太朗](https://github.com/ShintaroMinami) (Accipiter Biosciences) & [本田 信吾](https://researchmap.jp/shingo_honda) (Institute for Protein Design, University of Washington, Postdoctoral Scholar)<br>
 (休憩)<br>
 16:05-16:20 [黒田 大祐](https://researchmap.jp/dkuroda1905) (日本大学 文理学部 生命科学科 准教授)<br>
 16:20-16:35 [森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授) <br>
