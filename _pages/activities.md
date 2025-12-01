@@ -35,7 +35,9 @@ permalink: /activities
 - [FAQ]({{ site.baseurl }}/faq/)
 
 ### タイムテーブル（予定・敬称略）
+**リンクは[こちら](https://docs.google.com/spreadsheets/d/1iBQqqmWEbR4yX-kBbSmoy-0IOE4ZHVnYY-kGmu7jvKc/edit?usp=sharing)**
 
+12:30 開場・受付開始<br>
 13:00-13:10 開会挨拶・趣旨説明<br>
 13:10-13:25 [小杉 貴洋](https://researchmap.jp/takahirokosugi) (分子科学研究所 協奏分子システム研究センター 助教)<br>
 13:25-13:40 [千見寺 浄慈](https://researchmap.jp/read0132949) (名古屋大学 大学院工学研究科 応用物理学専攻 複合系物性工学 助教)<br>
