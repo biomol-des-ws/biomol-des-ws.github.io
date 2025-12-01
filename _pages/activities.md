@@ -15,7 +15,7 @@ permalink: /activities
 2025年12月10日に第1回研究会を行います。
 
 - 日時：2025年12月10日（水）13:00–17:00
-  - 懇親会：18:00–20:00
+  - 懇親会：<span style="color: red; ">**17:30–19:00（2025.12.1更新：時間帯を若干変更しました）**</span>
 
 - 場所：[東京科学大学 湯島キャンパス](https://www.isct.ac.jp/ja/001/access#anchor04)（旧東京医科歯科大学）M&Dタワー 4階 [アクティブラーニング室](https://www.tmd.ac.jp/labs/TOGOjoho/toshokan-bumon/PCroom_59657a73c68be/)
   - 最寄り駅
