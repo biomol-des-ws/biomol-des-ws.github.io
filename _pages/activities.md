@@ -14,23 +14,15 @@ permalink: /activities
 
 2025年12月10日に第1回研究会を行います。
 
-- 日時：2025年12月10日（水）13:00–17:00
-  - 懇親会：<span style="color: red; ">**17:30–19:00（2025.12.1更新：時間帯を若干変更しました）**</span>＠ **M&Dタワー 26階 ファカルティラウンジ**
+- 日時：**2025年12月10日（水）13:00–17:00** （開場12:30）
+- 場所：[東京科学大学 湯島キャンパス](https://www.isct.ac.jp/ja/001/access#anchor04)（旧東京医科歯科大学）**M&Dタワー 4階** [アクティブラーニング室](https://www.tmd.ac.jp/labs/TOGOjoho/toshokan-bumon/PCroom_59657a73c68be/)
+- 懇親会：**17:30–19:00（2025.12.1更新：時間帯を若干変更しました）**＠ **M&Dタワー 26階 ファカルティラウンジ**
 
-- 場所：[東京科学大学 湯島キャンパス](https://www.isct.ac.jp/ja/001/access#anchor04)（旧東京医科歯科大学）M&Dタワー 4階 [アクティブラーニング室](https://www.tmd.ac.jp/labs/TOGOjoho/toshokan-bumon/PCroom_59657a73c68be/)
   - 最寄り駅
     - JR御茶ノ水駅（東京駅から約5〜10分）, お茶ノ水橋口改札から徒歩約5分
     - 東京メトロ丸ノ内線御茶ノ水駅, 1番または2番出口から徒歩約5分
     - 東京メトロ千代田線新御茶ノ水駅, B1出口から徒歩約8〜10分
-  - 設備
-    - 110インチ中央モニタ 1台
-    - 55インチ補助モニタ 2台
-    - マイク
-    - PC：無（持込可）
-    - ​​​ネットワーク接続：無線LAN（ScienceTokyo Wi-Fi）またはEduroamが利用可能。
-    - モニターへの出力：HDMI、アナログ、AppleTV
-    - PCからの音声出力：HDMI
-  - ![建物の位置](../images/map.png)
+  - <img src="../images/map.png" alt="建物の位置" width="100%">
   - 上図の赤枠で示した建物が発表会場および懇親会会場となるM&Dタワーです。<br>
   - キャンパス内に入りましたら、他の建物に入らずにM&Dタワーのふもとまでお越しいただき、**1階入口**からお入りください。他の建物からやM&Dタワーの2階からは入れないことがございます。1階のセブンイレブンの隣に入口がございます。
   - 1階入口の先にある防災センター（守衛室）にて記帳する必要はございません。
@@ -38,6 +30,14 @@ permalink: /activities
   - この建物の1階入口は18時に自動的に施錠されます。中からは開けられますが、退出の際はご注意ください。
 - 参加登録：~~[こちら]からお願いします。~~<span style="color: red; ">**2025.10.30更新：参加者数が上限に達したため受付を締め切りました**</span>
 - 参加費：参加登録リンクから詳細をご確認ください
+- 設備
+  - 110インチ中央モニタ 1台
+  - 55インチ補助モニタ 2台
+  - マイク
+  - PC：無（持込可）
+  - ​​​ネットワーク接続：無線LAN（ScienceTokyo Wi-Fi）またはEduroamが利用可能。
+  - モニターへの出力：HDMI、アナログ、AppleTV
+  - PCからの音声出力：HDMI
 - [FAQ]({{ site.baseurl }}/faq/)
 
 ### タイムテーブル（予定・敬称略）
@@ -57,7 +57,7 @@ permalink: /activities
 15:15-15:45 タンパク質デザインチュートリアル, [南 慎太朗](https://github.com/ShintaroMinami) (Accipiter Biosciences) & [本田 信吾](https://researchmap.jp/shingo_honda) (Institute for Protein Design, University of Washington, Postdoctoral Scholar)<br>
 (休憩)<br>
 16:05-16:20 [黒田 大祐](https://researchmap.jp/dkuroda1905) (日本大学 文理学部 生命科学科 准教授)<br>
-16:20-16:35 ~~[森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授)~~ 秋葉 凌羽 （東京科学大学 生命理工学院 学部3年） <br>
+16:20-16:35 **秋葉 凌羽** （東京科学大学 生命理工学院 学部3年） ~~[森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授)~~ <br>
 16:35-16:50 [坪山 幸太郎](https://researchmap.jp/ktsuboyama) (東京大学 生産技術研究所 講師)<br>
 16:50-17:00 閉会挨拶<br>
 17:30-19:00 懇親会<br>

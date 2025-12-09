@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Webページを開設しました!** Join us!
-
-生体分子設計研究会を立ち上げました。
+**2025年12月10日に第1回研究会を行います**。詳細は[こちら](activities.md)。
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
