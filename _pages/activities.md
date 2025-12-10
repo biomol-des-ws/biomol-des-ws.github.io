@@ -57,7 +57,7 @@ permalink: /activities
 15:15-15:45 タンパク質デザインチュートリアル, [南 慎太朗](https://github.com/ShintaroMinami) (Accipiter Biosciences) & [本田 信吾](https://researchmap.jp/shingo_honda) (Institute for Protein Design, University of Washington, Postdoctoral Scholar)<br>
 (休憩)<br>
 16:05-16:20 [黒田 大祐](https://researchmap.jp/dkuroda1905) (日本大学 文理学部 生命科学科 准教授)<br>
-16:20-16:35 **秋葉 凌羽** （東京科学大学 生命理工学院 学部3年） ~~[森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授)~~ <br>
+16:20-16:35 **秋葉 凌羽** （東京科学大学 生命理工学院 学部3年）・ [森脇 由隆](https://researchmap.jp/YoshitakaMoriwaki) (Science Tokyo 総合研究院 難治疾患研究所 准教授) <br>
 16:35-16:50 [坪山 幸太郎](https://researchmap.jp/ktsuboyama) (東京大学 生産技術研究所 講師)<br>
 16:50-17:00 閉会挨拶<br>
 17:30-19:00 懇親会<br>
