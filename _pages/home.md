@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**2025年12月10日に第1回研究会を行います**。詳細は[こちら](activities.md)。
+**2026年12月15日に東京大学駒場キャンパスで第2回研究会を開催予定です**。詳細は[こちら]({{ site.baseurl }}/activities)。
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

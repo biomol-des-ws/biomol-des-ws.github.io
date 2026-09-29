@@ -14,7 +14,13 @@
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/activities">Activities</a></li>
+		<li class="dropdown">
+          <a href="{{ site.url }}{{ site.baseurl }}/activities" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ site.url }}{{ site.baseurl }}/activities">第2回研究会（2026年12月15日・開催予定）</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/activities/1/">第1回研究会（2025年12月10日・開催終了）</a></li>
+          </ul>
+        </li>
 		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/note1">note1</a></li> -->
 		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/note2">note2</a></li> -->
 	  </ul>
