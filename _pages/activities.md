@@ -52,7 +52,8 @@ permalink: /activities
 
 ## 参加登録
 
-[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSec_ruT88BNJ5hjq6JwTZqiTeJ7ZkYNmV7-lABOPTUwS5VJcw/viewform)からお申し込みください。締め切りは<span style="color: #c00; font-weight: bold;">11月30日</span>です。
+<del><a href="https://docs.google.com/forms/d/e/1FAIpQLSec_ruT88BNJ5hjq6JwTZqiTeJ7ZkYNmV7-lABOPTUwS5VJcw/viewform">参加登録フォーム</a>からお申し込みください。締め切りは<span style="color: #c00; font-weight: bold;">11月30日</span>です。</del>
+<strong style="color: #c00;">参加人数が想定を上回ったため受付を一時停止しています。</strong>
 
 フラッシュトーク（各自１分）での発表をご希望の方は、参加登録フォームからお申し込みいただけます（<span style="color: #c00; font-weight: bold;">11月13日登録締め切り</span>）。ただし、開催時間の都合上、ご希望のすべての方に発表をお願いできない場合があります。あらかじめご了承ください。フラッシュトークでの発表をお願いする方には、別途発表資料の準備についてご連絡する予定です。
 
