@@ -52,7 +52,7 @@ permalink: /activities
 
 ## 参加登録
 
-<p style="color: #c00; font-weight: bold;">10月30日に参加登録を一時中止しましたが、11月6日より受付を再開しました。参加をご希望の方は、下記の参加登録フォームからお申し込みください。</p>
+<p style="color: #c00; font-weight: bold;">10月30日に参加登録を一時中止していましたが、11月6日より受付を再開しました。参加をご希望の方は、下記の参加登録フォームからお申し込みください。</p>
 
 [参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSec_ruT88BNJ5hjq6JwTZqiTeJ7ZkYNmV7-lABOPTUwS5VJcw/viewform)からお申し込みください。締め切りは<span style="color: #c00; font-weight: bold;">11月30日</span>です。
 
